@@ -1,0 +1,223 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+button {
+  padding: 14px 27px;
+  border-radius: 25px;
+  border: 0px;
+}
+
+nav {
+  background-color: rgb(255, 255, 255);
+  color: rgba(0,0,0,0.8);
+  padding-top: 10px;
+  height: 25px;
+  border-bottom: 0.5px solid rgba(0,0,0,0.2);
+  width: 100%;
+  
+}
+
+nav a {
+  color: rgba(0,0,0,0.9);
+  text-decoration: none;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+  font-family: monospace;
+  font-weight: bold;
+  margin: 0 6px;
+  font-size: 12px;
+  }
+
+.top-left {
+  display: inline-block;
+  float: left;
+  padding: 0;
+  margin: 0 30px;
+  font-family: monospace;
+  font-weight: bold;
+  color: rgba(0,0,0,0.9);
+  }
+  
+  .top-left .heart {
+    
+  margin-right: 25px;
+ 
+  }
+  
+/*.top-left .acronym {
+   
+    }*/
+
+.logo {
+background-color: rgb(31,82,111);
+height: 56px;
+    }
+
+.logo img {
+  height: 25px;
+  width: 69px;
+  margin-top: 16px;
+  margin-left: 30px;
+}
+
+.build {
+  width: 1016px;
+  margin: 0 auto;
+  font-family: sans serif;
+  font-size: 15px;
+  color: white;
+  background-color: rgb(32,101,136);
+  height: 310px;
+  padding: 53px 0;
+}
+
+.build img {
+float: right;
+height: 281px;
+width: 608px;
+
+}
+
+/*.build p {
+  position: absolute;
+  color: white;
+}*/
+
+.build button {
+  background-color: rgb(240,146,51);
+  color: white;
+  font-size: 15px;
+}
+
+header {
+
+  background-color: rgb(32,101,136);
+  height: 445px;
+}
+
+.collab {
+  width: 1076px;
+  margin: 0 auto;
+  background-color: rgb(39,53,71);
+  height: 583px;
+  
+}
+
+.collab img {
+  
+  width: 567px;
+  height: 343px;
+  padding: 114px 0;
+  
+}
+
+.orgs {
+  float: right;
+  height: 252px;
+  width: 375px;  
+  font-family: sans serif;
+  font-size: 14px;
+  color: white;
+  padding: 156px 0;
+} 
+
+.collab button {
+  background-color: rgb(203,56,55);
+  color: white;
+  margin-bottom: 15px;
+  font-size: 15px;
+}
+
+#section-1 {
+  background-color: rgb(39,53,71);
+  
+}
+
+#section-2 {
+  background-image: url("images/red-car.png");
+  background-size: cover;
+  position: relative;
+  height: 511px;
+  background-color: white;
+
+}
+
+.npm {
+  position: absolute;
+  left: 100px;  
+  width: 342px;
+  height: 188px;
+  margin-top: 85px;
+  font-family: sans serif;
+  font-size: 14px;
+  color: white;
+  }
+
+.npm button {
+  background-color: rgb(49,68,88);
+  color: white;
+  font-size: 15px;
+}
+
+/*.sec-3 {
+  margin: 0 auto;
+  width: 1900;
+  }*/
+
+.sec-3 {
+margin: 0 auto;
+padding: 0 200px;  
+font-size: 14px;
+font-family: sans serif;
+color: rgb(135,145,156);
+}
+
+.blocks {
+text-align: center;
+padding-top: 60px;
+}
+
+.blocks h2 {
+color: rgb(83,88,98);
+}
+
+.boxes {
+padding-top: 33px;
+}
+
+.col {
+  width: 33%;
+  height: 253px;
+  float: left;
+  text-align: center;
+  padding-bottom: 90px;
+ }
+
+.col img{
+  height: 120px;
+  width: 120px;
+  padding-bottom: 25px;
+}
+
+.col p {
+  padding: 0 30px;
+}
+
+.col a {
+  color: rgb(208,74,73);
+}
+
+#section-3 {
+  background-color: white;
+}
